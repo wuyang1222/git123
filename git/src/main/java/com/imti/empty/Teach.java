@@ -6,4 +6,6 @@ public class Teach {
 	
 	
 	public void save() {}
+	
+	public void delete() {}
 }
